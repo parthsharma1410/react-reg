@@ -1,5 +1,6 @@
 # A Login-SignUp frontend made using React, Bootstrap and CSS
-# Getting Started with Create React App
+### -Parth Sharma
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
