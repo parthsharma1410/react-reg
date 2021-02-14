@@ -1,4 +1,4 @@
-# A Login-SignUp frontend made using React, Bootstrap and CSS
+# Frontend for a Login-Signup web-page made using React, Bootstrap and CSS
 ### -Parth Sharma
 ## Getting Started with Create React App
 
